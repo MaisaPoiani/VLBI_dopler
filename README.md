@@ -9,10 +9,13 @@ This repository contains only the notebooks.
 Before running them, you must install the Tudat environment.
 
 Use the following commands:
+
         conda env create -f environment.yaml
+        
         conda activate tudat-space
         
 Make sure the environment is correctly activated before executing any notebook.
+To futher information, visit: https://docs.tudat.space/en/latest/getting-started/quickstart.html 
 
 ## Notebook Overview
 
