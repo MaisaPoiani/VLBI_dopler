@@ -1,10 +1,10 @@
+![cover image](/cover.png)
+
 # Radio Science Studies with TudatPy
 
 This repository contains a progressive set of Jupyter Notebooks dedicated to studying radio science applications using TudatPy, with emphasis on techniques related to PRIDE (Planetary Radio Interferometry and Doppler Experiment).
 
 The notebooks were developed sequentially. Each notebook extends and consolidates concepts introduced in the previous ones, progressively building a complete simulation and analysis pipeline for spacecraft tracking and radio interferometry scenarios.
-
-![cover image](/cover.png)
 
 ## Environment Setup
 This repository contains only the notebooks.
@@ -14,7 +14,9 @@ Use the following commands:
 
 ```
 conda env create -f environment.yaml
-        
+```
+
+```
 conda activate tudat-space
 ```
 
