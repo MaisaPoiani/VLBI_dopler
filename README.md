@@ -4,16 +4,20 @@ This repository contains a progressive set of Jupyter Notebooks dedicated to stu
 
 The notebooks were developed sequentially. Each notebook extends and consolidates concepts introduced in the previous ones, progressively building a complete simulation and analysis pipeline for spacecraft tracking and radio interferometry scenarios.
 
+![cover image](/cover.png)
+
 ## Environment Setup
 This repository contains only the notebooks.
 Before running them, you must install the Tudat environment.
 
 Use the following commands:
 
-        conda env create -f environment.yaml
+```
+conda env create -f environment.yaml
         
-        conda activate tudat-space
-        
+conda activate tudat-space
+```
+
 Make sure the environment is correctly activated before executing any notebook.
 To futher information, visit: https://docs.tudat.space/en/latest/getting-started/quickstart.html 
 
